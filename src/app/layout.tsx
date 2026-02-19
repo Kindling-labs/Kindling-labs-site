@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kindling Labs — Tools that help people learn"",
+  title: "Kindling Labs — Tools that help people learn",
   description: "A small, independent studio building learning tools grounded in cognitive science. Spaced repetition, retrieval practice, and daily micro-sessions.",
 };
 
